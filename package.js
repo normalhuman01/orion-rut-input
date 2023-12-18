@@ -2,7 +2,7 @@ Package.describe({
   name: 'nicolaslopezj:orion-rut-input',
   summary: 'Rut input for orion',
   version: '2.0.0',
-  git: 'https://github.com/nicolaslopezj/orion-rut-input'
+  git: 'https://github.com/normalhuman/orion-rut-input'
 });
 
 Package.onUse(function(api) {
